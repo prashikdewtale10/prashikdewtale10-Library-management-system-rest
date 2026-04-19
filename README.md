@@ -1,0 +1,1 @@
+This Django Rest Framework-based Library Management System provides secure, role-based access for managing books and authors via a RESTful API. The project supports JWT authentication and CRUD operations for library resources. To get started, clone the repository, install dependencies, run migrations, and execute python manage.py runserver to access the API locally.
